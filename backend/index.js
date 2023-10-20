@@ -18,11 +18,8 @@ app.use(cors());
 // app.use(
 //     cors({
 //         origin: ["http://localhost:3000"],
-//         credentials: true,
-//         optionsSuccessStatus: 200,
 //         methods: ["GET", "POST", "PUT", "DELETE"],
 //         allowedHeaders: ["Content-Type"],
-//         exposedHeaders: ["Content-Type"]
 //     })
 // );
 
